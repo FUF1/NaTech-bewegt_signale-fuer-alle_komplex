@@ -1,0 +1,25 @@
+{
+    "name": "Signale für alle (komplex)",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "Signale für alle_einfach": "github:FUF1/NaTech-bewegt_signale-fuer-alle_einfach#562d4a8ecdf10c05d38b2e185f6c0e0dedbcc150"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.27",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
